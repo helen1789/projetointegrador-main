@@ -1,0 +1,14 @@
+body {
+  background-color: #aa7444;
+}
+
+.divs_topicos {
+  border-radius: 50%;
+  background-color: #77442a;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  justify-content: space-around;
+  width: 70px;
+  height: 70px;
+}/*# sourceMappingURL=style.css.map */
